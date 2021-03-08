@@ -1,6 +1,8 @@
 # Exercise-04b-Hide-and-Seek
 Exercise for MSCH-C220, 8 October 2020
 
+A demonstration of this exercise is available at [https://youtu.be/k5LshgHJ12Y](https://youtu.be/k5LshgHJ12Y)
+
 This exercise is designed to continue our creation of a 2D Platformer, by creating and experimenting with two enemy types. The concepts behind this exercise will be outlined in class.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-04b-Hide-and-Seek. *Edit the LICENSE and replace BL-MSCH-C220-S21 with your full name.* Commit your changes.
